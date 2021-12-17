@@ -3,7 +3,7 @@ layout: post
 title: Aquí estamos, intentándolo!!
 ---
 
-NA ver si lo conseguimos
+A ver si lo conseguimos
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
